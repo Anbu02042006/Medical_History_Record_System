@@ -97,7 +97,7 @@ System.out.println(service.getMedicalRecords("001"));
 
 <h2>📄 License</h2>
 <p>
-    This project is available under MIT license.
+    This project is available under <b>MIT license</b>.
 </p>
 
 </body>
